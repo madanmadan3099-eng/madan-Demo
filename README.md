@@ -1,4 +1,4 @@
 # madan-Demo
-THis is my first repositary
+This is my first repositary
 <br>
 Author - Madan
